@@ -62,7 +62,7 @@ export default {
   margin-bottom: 20px;
   margin: 0 auto;
   width: 100%;
-  max-width: 500px;
+  max-width: 400px;
   margin-top: 30px;
   background-color: rgb(0,0,0,0.5);
   border-top-left-radius: 15px;

@@ -68,7 +68,7 @@ export default {
   padding: 20px;
   margin-bottom: 20px;
   width: 100%;
-  max-width: 500px;
+  max-width: 400px;
   margin: 0 auto;
   margin-top: 30px;
   background-color: rgb(0,0,0,0.5);
